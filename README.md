@@ -3,7 +3,7 @@ This is a quick, interactive browser-based game that turns everyday nutrition ch
 
 Through a series of mini-games, players explore how different food choices affect energy levels, focus, and overall performance — all without relying on traditional quiz formats or heavy text.
 
-Designed as a microlearning experience, the game takes approximately **3–5 minutes** to complete and features:
+Designed as a microlearning experience, the game takes approximately 3–5 minutes to complete and features:
 
 • Engaging, arcade-style mini-games (slice, match, build, and choose)  
 • Instant visual feedback paired with short, practical insights  
