@@ -1,5 +1,5 @@
 # Bite Right
-This is a quick, interactive browser-based game that turns everyday nutrition choices into a fun, hands-on experience. Instead of reading through content, users learn by actively making decisions and seeing the impact play out in real time.
+A quick, interactive browser-based game that turns everyday nutrition choices into a fun, hands-on experience. Instead of reading through content, users learn by actively making decisions and seeing the impact play out in real time.
 
 Through a series of mini-games, players explore how different food choices affect energy levels, focus, and overall performance — all without relying on traditional quiz formats or heavy text.
 
